@@ -1,0 +1,38 @@
+
+.animalCrossingParagrph{
+    color:red;
+    border-style: dotted;
+}
+
+.samllerImages{
+    width: 50px;
+    height: 50px;
+    float: right;
+    margin: 20px;
+}
+
+#firstFont{
+    font-family: 'courier New', Courier, monospace;
+}
+
+#secondFont{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.centered {  
+    position: relative;
+    text-align: center;
+}
+
+.centered {  
+    position: absolute;  
+    top: 50%;  
+    left: 50%;  
+    transform: translate(-50%, -50%);
+}
+
+#yellowCountainer{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: black;
+}
